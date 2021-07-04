@@ -1,0 +1,5076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="LineOnly">
+<PolyStyle>
+<fill>0</fill>
+<outline>1</outline>
+</PolyStyle>
+</Style>
+<Folder>
+<name>YADE 7.0</name>
+<Placemark>
+<name>Punkt 09046362</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.293257028638001,52.5243210222723107,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046337</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2851614285723798,52.5441242165608955,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046361</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2873253461991876,52.5226558859039088,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046363</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2781099200470418,52.5209473237029698,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046330</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3142368205782127,52.5251536028597172,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046348</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3050476139704976,52.5261715390180512,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046365</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3235703475758882,52.5135004312568157,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046325</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3271821477294949,52.5048825767008083,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046324</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3218694768491286,52.5126027005814038,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046358</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3223468946541406,52.5054078978282348,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046358</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3224562316576449,52.5061517819778203,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046344</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.28794287334361,52.5047485380444243,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046360</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2989259444199934,52.51614176300005,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046338</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3030975542146077,52.5091690024468747,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046319</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3119287825897512,52.5180912037649605,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046350</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3185707572901446,52.5034268757881293,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046350</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3189061650352372,52.5033957094806425,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046343</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3177055684771943,52.500325739632288,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046329</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.298569652461385,52.5023991705100883,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046349</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3206935507059754,52.5031919046582232,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046351</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3088873217134331,52.5038673786633794,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046339</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2867398804092236,52.5098704245586774,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046367</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2882619882501132,52.5094746700689115,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046359</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2960988059227585,52.5185171438604499,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046359</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2962940866676895,52.5172786902264903,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046359</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2968989476762527,52.5135021229313423,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046359</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2966521173176648,52.5151334156847653,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046344</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2903926559292476,52.5085330813655133,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046342</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2899422942921479,52.504794589125801,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046364</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2591819671294928,52.5239709517417594,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046346</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2472540029503723,52.5232680613364238,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046345</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2748399875462937,52.5169522779038829,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046357</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2586008397213142,52.5089142346431146,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046341</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2730334689599498,52.511433475901363,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046357</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2600558836026252,52.509003817148141,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046357</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2592379798696776,52.5089281399600836,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046356</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2599436954636172,52.5129815169327259,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046354</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2581177808509079,52.516011134811805,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046347</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2560875035421972,52.5153854420908388,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046322</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2710828508885221,52.5161308336561916,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046323</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2554612178908755,52.5189087133193269,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046353</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2672297359790203,52.5191721363346815,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046340</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2691680826752467,52.5076065863440959,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046331</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.273882145504901,52.5045891230691311,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046332</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2515700085585539,52.5112500398443629,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046332</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2504292124419401,52.509641138589437,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046355</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2383122097786981,52.5159802768815638,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046335</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2351348196201624,52.5066393108299536,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046334</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2398963833470233,52.5080754293545979,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046333</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2452457443996376,52.50841953676386,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046336</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.229632969668419,52.5059020593031889,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046320</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2130805419178579,52.5052215970746872,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046321</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.213695587378945,52.5046970851006307,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046327</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.326767773376119,52.501721925436847,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046328</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3265563929624342,52.5015678389164151,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046326</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3268116485789676,52.5020195659277817,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046366</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2504650227119232,52.5138719438655102,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046114</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3126148195343248,52.4876834358375959,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046141</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3253452552517828,52.499251743948733,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046132</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3097556347625581,52.4998721728423021,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046137</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3068143586140533,52.4942660282791636,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046109</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3251318025811329,52.4833769045140457,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046109</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3352701067374007,52.4812906539066688,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046109</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3318989158850219,52.48187347733802,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046109</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3112391228896954,52.4836671603139351,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046109</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3166210575137622,52.4835861761083748,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046138</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3158057985858545,52.4730519056296742,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046146</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3236114616782491,52.4805385151027863,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046124</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3114300069306104,52.4791028406053215,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046124</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3125431585111844,52.4789042391465088,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046113</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2852389224467,52.4986339171394647,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046140</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2947739609916713,52.4944008427995001,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046134</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2829972916959722,52.4950680726670242,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046118</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2761777920985367,52.4929968655469352,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046111</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3068879145658183,52.4896984894419489,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046115</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2948784518023313,52.480396652288718,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046115</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2947316967159175,52.4792332339310192,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046115</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2945798753447555,52.4780377467397159,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046145</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2876105018417245,52.4886290798896482,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046144</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2765129899118808,52.491666133491492,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046143</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2789957710084341,52.491379866793018,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046125</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2817018783379481,52.4899712097364741,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046126</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2783746958480151,52.490848298283062,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046116</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2802239615707265,52.4841253128138092,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046131</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2779712920693687,52.4794172242632655,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046112</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3098438894158644,52.468816388665914,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046139</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3114360873338793,52.4694412531325085,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046136</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2835205107126075,52.4723142575313588,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046135</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2824185784755127,52.4700645110770054,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046148</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2689974951784002,52.4887131090666728,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046127</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2747843550565019,52.4878172247920816,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046133</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2754536905606457,52.4849919517410584,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046128</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2695030765245932,52.4859594043009849,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046129</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2680386426165455,52.4855243435799608,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046117</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2631350261480065,52.484364071995536,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046119</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2601937342583796,52.4835741272001073,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046120</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2668159833331849,52.4800435222227577,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046121</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2712672524181521,52.478106599697341,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046147</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2705726314469654,52.4776303337315539,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046130</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2626504141780988,52.482452900428811,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010222</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3121865401493142,52.4855509383527306,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046352</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3089474086630073,52.5042437868798615,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046605</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3093418170580193,52.5042385457006375,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046541</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2181357696087058,52.5082740637040288,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09050456</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2762479603974803,52.5263879858951341,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045640</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2769650182212899,52.5239856964560019,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09096232</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2828569681891882,52.5156578264735145,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046076</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4596934493456466,52.510811531015321,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046081</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4793284592936757,52.4908311611705045,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046079</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.463556295834886,52.506988314392494,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046080</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4327327346350725,52.5264033878891397,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046084</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4327327346350725,52.5264033878891397,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046084</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4368719059526054,52.5247741759397755,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046080</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4366087540016608,52.5245962892439877,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046082</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4438184187338514,52.5156675163465039,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046078</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4410662563433103,52.5205587393844979,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046077</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4440483248035072,52.5214143709569541,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046083</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4282877314514408,52.5185344208518217,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046083</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4277774153789142,52.519169559749848,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046083</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4292351294717847,52.5188961639687051,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046083</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4289800914469186,52.5179638480469109,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046083</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4271545601454196,52.5183470933307746,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046159</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4148155858031721,52.5009392323099178,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046165</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4157421919524307,52.5022450171721857,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046160</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4243337642464606,52.5020489152474354,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046160</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4265210735833431,52.5052751924621788,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046160</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4252384620568765,52.5035871727069363,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046159</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.413345169641925,52.4990090781562842,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046159</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4140102016207248,52.4998505483187401,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046159</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4109860962157068,52.4959968922694173,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046164</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3861406717275422,52.4971123312851304,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046149</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3988692096656017,52.4875772392005473,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046150</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4011898066916544,52.4875286368769025,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046151</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4033739634759588,52.4877313805069576,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046166</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4057210763047827,52.4869340393437724,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046161</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3909685263349925,52.4948431650362437,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046171</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3923205104671172,52.4955155236917435,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046169</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3931584409583646,52.4952514656521103,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046170</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3942005253657346,52.4953103672710952,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046167</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3831302268302395,52.4954857843980065,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046157</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3807736048928838,52.4874589978617081,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046159</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4166578626854935,52.5035459678205214,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046159</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4122171826746275,52.497398172010513,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045899</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.508456099827816,52.5276238431638447,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045901</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4996330401514424,52.5167397076257885,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045898</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.490743646280313,52.5189325396384774,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046053</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4934914018315322,52.5457798192197316,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046052</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4785623564683128,52.5443633991932231,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046052</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4840939344044237,52.5429522416651054,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046055</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.490257264831353,52.538337831127734,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045900</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5085659862683887,52.5044185564184431,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046582</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5423020238956777,52.5481231970953289,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046050</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5592495431983444,52.5108041821981288,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046051</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.572898216461704,52.5188411060312532,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046090</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.6043128912253337,52.4796141194603294,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046086</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.629802154526212,52.519469513440967,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046088</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.642659661190482,52.5226313779224014,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046089</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.6132936134966567,52.5017263895611421,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046087</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.6029325206044476,52.5152114010897506,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046085</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5832102172531446,52.5088825673218409,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010193</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3829766503640926,52.50852065556208,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010202</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4196364977576046,52.5072050766554881,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010202</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4189281480860014,52.5071271735720018,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010189</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4008414309163708,52.5254294741918031,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010202</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4066495251114279,52.524592435876194,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010210</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4038978006636391,52.5343623306221161,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010191</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4040368612200282,52.5284421422633301,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010209</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4012514035422541,52.5319256344700207,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010188</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4001769786026301,52.5242217325949738,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010201</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4189848680234878,52.5065775066940859,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010197</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4210155336058339,52.5055110756818095,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010197</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4208068756908592,52.5053615346800626,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010197</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.426987241225179,52.5066769739700874,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010197</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4272356094921221,52.5065643170438747,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010197</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4276743706305144,52.5066061055852629,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010197</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4286232187694807,52.5082760319730326,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010006</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4015445557748212,52.5152325254105747,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010201</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4203134245523934,52.5074602666722754,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010197</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4182955865746507,52.5053751433046614,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010197</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4171824420014367,52.5055206059866748,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010197</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.418513039196295,52.5050174227491411,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010005</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3972434516819785,52.5328235254662204,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010186</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.383835237557312,52.5280672675116875,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010190</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3797831757023111,52.5299773475228236,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010196</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.379043368646709,52.5385433840655764,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010195</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3775617970631213,52.5383098470991214,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010184</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3907464040055313,52.5337988487072707,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010182</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3930354399532963,52.5350165625290018,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010182</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3917298447743587,52.5349131008580557,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010203</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3951829197843644,52.532594701303502,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010187</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3850355121972715,52.5283121249940166,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010205</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3784363578503225,52.5278792160352594,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010205</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.379028624220636,52.5279132218530833,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010192</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3968238155441686,52.5280981044940987,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010193</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3844293313532194,52.5087489438117743,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010193</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3846589816173456,52.5077177706946046,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010193</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3838144392214602,52.5097143612220805,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010193</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3838938840227293,52.509237197406776,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010193</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3836324504863686,52.5091910071656542,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010193</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3844333689612842,52.5081523412388762,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010183</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3853821321925288,52.5214609713196765,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010204</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3787430323025482,52.5163383410688027,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010185</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3988500523806167,52.5203688007308358,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010207</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.393582458386792,52.5186760027193245,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010207</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3937310282959512,52.5178155994355862,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010208</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3915985410819918,52.5177168881256122,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010198</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3806317481554178,52.5206449620315823,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046318</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3770509611172734,52.5140736954349734,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010225</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4135237722826073,52.5170651683211389,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046315</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3724677314320157,52.5280210495511781,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046316</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3653775898849112,52.5282106712118804,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046318</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3735838722861367,52.5145150310373268,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046318</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3622730184589535,52.5170704478571722,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046318</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3468364450574946,52.5172828370984206,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046317</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3507152980514583,52.5177180573244655,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046318</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.360655278953903,52.5127864223710574,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046314</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3460722180591702,52.5085726281088156,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046313</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3413132046238321,52.5162802346687343,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046318</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3337180803833739,52.5129805235606,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046318</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3434984407479131,52.5126949233611668,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046191</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3759315821691835,52.5506223683199494,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046194</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3653231214021897,52.5456829589652301,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046195</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3542512518186065,52.546545029723454,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046192</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3854351894291526,52.5453244767749794,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046190</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3488647684672515,52.5604955092648609,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046195</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3538701274153837,52.5463672971277589,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046193</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3521520106013032,52.5557677769239149,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046193</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3471918545721646,52.5584297970930479,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046189</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3362035521369968,52.5462211371229273,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046189</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3298254418216864,52.5531989323515631,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046312</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3502788613479257,52.5252905298428843,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046312</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3496076954691318,52.5247076276102902,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09050340</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3508355024433776,52.5251640212898536,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046313</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3436604909558785,52.5185551215619881,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010004</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3467278950146095,52.5185608834220545,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010206</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.371146347837394,52.5321418774929825,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09040275</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3460074427915316,52.52547181268271,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09040275</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3415231941189063,52.5258883861355557,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046187</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4603579502012654,52.4371092221095836,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046173</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4396047034255233,52.4464236515309636,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046188</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4707698543976218,52.4675938848003511,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046186</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.429630712601428,52.4890444549147261,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046183</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4350434785646105,52.4630100525046004,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046182</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4379283040723436,52.4713978961528724,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046175</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4286177206583712,52.4804615799230376,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046181</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4322756937637813,52.4729365294055796,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046185</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4331372301239664,52.4827363240726115,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046177</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4400244384535963,52.478995518279639,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046176</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4107513676781291,52.4803480674123506,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046178</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4457090249714426,52.4554933758250641,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046172</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4391366163671666,52.4475765895575989,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046180</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4282134972894518,52.4626619493160931,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09085209</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.447256226794341,52.4441754061144252,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09085209</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4475006468548095,52.4487569422709541,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09085209</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4551129466365271,52.446855934517103,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09085209</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4567667168428553,52.4441873571096409,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046101</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4373612458263008,52.5425008445955726,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046102</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4452233228206932,52.5304275427357155,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046097</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4370641078991184,52.5329605465268372,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046105</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4094509168567271,52.5517608372411544,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046099</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.414788768358461,52.5471640835689584,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046100</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4159503681175618,52.5478680296659917,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046100</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4157350206720025,52.5475817689190592,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09050116</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4223212422600096,52.5295772541230761,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046106</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4140033079546974,52.5344479855457109,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046108</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4128873283064252,52.5321159635451522,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046103</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4180222056856504,52.5336939720487948,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09050114</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4175779724405047,52.5276087777274299,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046098</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.41146524495149,52.5318235804801077,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046107</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4124989986969858,52.5385881571870073,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046040</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4841536340703811,52.6117580254466759,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046046</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4823793270243488,52.5588438856977405,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046054</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4809971107093745,52.5511085865531555,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046047</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4771078244679341,52.558002985928816,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046041</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4687589598653101,52.5527180171680683,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046042</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.464257077143186,52.5419759148834089,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046039</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4537966722394859,52.5930013371819953,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046048</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4547562154517557,52.5544807274977472,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046049</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.452626628017855,52.5527601901798178,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046045</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.440634502913813,52.5672649404441401,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046044</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4414897467019561,52.5672609985385222,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046042</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4580614142199266,52.5452065334241425,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046042</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4584286175320944,52.5454776644151877,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046043</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4528848242596961,52.5563899015829037,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046058</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5041712755495222,52.6380033398379581,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046075</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5103983083995214,52.6387737863068921,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046066</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5064099346910727,52.6310067425481947,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046072</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4913244625560136,52.6409395618968716,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046061</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3953212936055621,52.605114979028528,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046063</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3780019063645614,52.5996799721699233,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046063</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3779524734611286,52.5994384369959747,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046070</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3736621609069708,52.5808317247089931,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046067</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3934506571375174,52.5740842599512064,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046074</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3979802038942335,52.5697701769522325,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046060</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4136928870035064,52.5728355468751403,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046056</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.422013001992946,52.5779571507694783,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046062</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4215946042538068,52.57898539699206,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046068</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4177688601843013,52.57654246499213,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046071</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3789069794700861,52.5791228205455923,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046073</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4261617996796083,52.5528900211076078,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046073</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4262299058386923,52.5531235009910347,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046065</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4020191793071355,52.564222678461249,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097754</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3914487866590495,52.5738615651093397,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046239</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3035255444894638,52.629963571983609,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3015806554638107,52.6292062243780592,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2985789817058233,52.6319947863422684,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046252</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2840896162515456,52.6578007707762339,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2897608186072276,52.644560295379847,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2910441544217743,52.6335762380551913,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2724592638120402,52.6351678620859929,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2645245930922897,52.6396110361904732,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2892967971975793,52.6399149671886235,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046236</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2874073320414308,52.6400276584706006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.290209024567103,52.6361839067401078,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.281769290642659,52.6405464090958759,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2819944614731416,52.6354634626815638,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046217</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3570581221750455,52.6205400052850365,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046242</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3342690352075817,52.6003594769622609,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046218</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3522041707485286,52.5750788082588016,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046219</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3491180017674473,52.5769163066976901,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046248</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3435128001048202,52.577114144900996,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2737211452921144,52.6389848745766429,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2779894111145271,52.6367139622564508,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3049099418891927,52.6369803182639942,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046233</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3035748960706215,52.6355548421383901,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3027725149515703,52.6435404034324961,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3014722776421355,52.6430693057183063,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2796331661006946,52.6298199760849243,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046251</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2740939646273439,52.6302558849601141,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2707632423738389,52.6316125907672756,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2984613699144081,52.6401045870206303,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046258</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2957863379125634,52.6401202758908653,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2857238776155118,52.628912352377256,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046235</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2846191219306071,52.6285898385097752,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2937184253396037,52.6326535245823734,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2879277137297045,52.6322754347973145,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2983142215445529,52.6350123829438132,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046238</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2948575250052805,52.6313589217751598,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010003</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2847488566140424,52.6301527357397418,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046225</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2853951864389828,52.629957885366629,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010002</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2850818258187449,52.6300410847469635,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046224</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2853451056544092,52.630258646570546,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2695752001679779,52.6291689719303477,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046256</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2803417707120381,52.6264067516953347,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2752319322505894,52.6274715074280905,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046232</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3129061555706745,52.6061382434813893,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046220</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3257157824436163,52.5921210213027379,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046246</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3296565088087231,52.5953446616344564,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046245</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3320038476832341,52.5893374410717342,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046222</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3242033683441488,52.5905629670956216,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046221</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3284431267940864,52.5910274326344762,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046230</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3085151699774009,52.5796665627788826,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046257</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3005772148742967,52.5775680711227054,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046231</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3628874450379414,52.5728158182013772,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046227</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3510423863305618,52.5678156162815711,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046228</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.351902328946375,52.5701325282750105,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046223</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3603583498030964,52.564043141842248,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046253</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2650771975503208,52.6368010688517316,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046240</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3632971558483611,52.574853991507652,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046240</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3628770232097072,52.5754936608166403,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046243</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2989188957379003,52.6579345271637536,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046226</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2361365579000978,52.6099209110637389,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046214</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2762719207419142,52.5936138032203004,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046215</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2714464753765817,52.5953090527068952,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046216</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2123507590571823,52.6075606250778236,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046241</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2976732181617319,52.6219950266279994,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046249</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3171625701636689,52.5957244140949314,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046234</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.292788238574321,52.6275827192982035,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046247</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2590475036674427,52.587528932241689,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046237</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3175228500874106,52.5928876129330618,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046229</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2734052149364104,52.5736859776278109,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046254</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3481433923586792,52.571248711714631,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046210</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2628147122852322,52.5454269791920865,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046197</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2077944112080647,52.5702699817175159,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046202</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1991952584733383,52.5213204211984674,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046208</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1792079107715292,52.5566914552172619,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046198</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1469133652193335,52.5414359355167875,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046213</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1856914936821159,52.5031527222679841,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046212</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1816143436364524,52.5253898147941385,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046211</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.183084565345446,52.4916113513907874,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046206</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1589401796139995,52.4576992684111261,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046204</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1736224921577438,52.4716913724435798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046201</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1309444871384269,52.443424191783123,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046200</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1315486098696965,52.4444359904525115,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046199</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1451719269281817,52.4491366663454883,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046203</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.119240453858902,52.4750992392307367,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046196</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1905517389461249,52.5201877640198873,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046207</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1991033551408403,52.5164442877045303,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046209</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2052087961043085,52.5381414346054001,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046009</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.286998294450985,52.4694033685509069,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045935</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2837942262173741,52.4660316830246032,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045950</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2828259797293775,52.4640639167572189,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045994</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2743633637116041,52.4676559655012937,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045951</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2841703827680586,52.449911221422937,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045968</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2856117536574327,52.4588881632265256,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045928</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2833877757578431,52.4553910233689251,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045981</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2829510707969742,52.4563063403208218,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045952</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2830740496150828,52.4550554180879303,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045986</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2869827631544375,52.4624146749044442,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045988</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2999568762683804,52.4603506461942359,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046006</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3043629938747756,52.4648371812172485,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045966</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2990133072704619,52.4564753547161118,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045990</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2946977876981283,52.4669191478248536,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045979</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2914110834198276,52.4675234418294849,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045984</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2896862489450083,52.4663619224960911,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045955</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2975797736248484,52.4637433319746336,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045980</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2940090223086678,52.46534383291295,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09020847</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2856237399303812,52.4642663735774804,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045985</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2894874226317441,52.4657864840352275,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045987</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2958419744029399,52.4627894733849374,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045936</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2771264274470031,52.4562887281729715,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045924</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2782390912178041,52.454758623600938,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045951</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2813617176469165,52.4536795753513871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045937</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.277667671821872,52.4517087582671806,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2819850785285745,52.4416494251950596,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046010</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2883268113923769,52.4452783591754752,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046001</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.268422548827564,52.4445365214304076,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2680087752804905,52.4368423223461448,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2763778839791655,52.4398890834934051,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046008</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2689237091059358,52.4376550452365251,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2703270234736124,52.4379468077749777,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045949</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2637981896566934,52.4555508459862949,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045946</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2565707022192925,52.4520808067540187,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045983</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2598664340788339,52.4466178179818812,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045958</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.263087495799077,52.4442095624165248,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045997</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2618420063180977,52.4438450713136177,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045978</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2590291638599833,52.4425921053278685,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045904</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2609447336326163,52.4497081558415701,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045957</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.259557632844329,52.4428660691927746,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045923</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2393729298600018,52.4438117330103282,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045922</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2380270611817981,52.4423127673749505,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045921</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2375844832731691,52.4418579953751447,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045941</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2355867131246949,52.4428247109599539,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045940</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2346438231340127,52.4417390641047518,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045962</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2339604073472099,52.4434704130946443,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045995</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2335926569161249,52.4463673302018805,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2658910511047399,52.435839182387987,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045977</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2599423371720153,52.4396475700125819,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09096054</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2598192680784486,52.4356895161943797,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2533937970999389,52.4353563200752433,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045948</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2555312031851873,52.4329781452780566,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045993</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2640395880172655,52.4298150118497261,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045925</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2380300238720778,52.4365488736732388,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045956</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.236985209844395,52.4379776788655576,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046370</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2333403972424613,52.4377339741997091,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2381692015069596,52.4328471771691369,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2443691503321404,52.4340162727383756,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2417478102920398,52.4336230820872018,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2484385425683495,52.4346216339086695,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045999</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2308721100708286,52.4438718330962601,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045963</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2303451455199514,52.4425260557516992,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045970</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2297876447228155,52.4421519571387691,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045964</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2262606141173933,52.4417843736160023,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046002</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2237425254328276,52.4432826922853863,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046000</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2236860331183106,52.4423166906857574,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045969</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2300779117563323,52.4432955760881896,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045939</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2323530044211548,52.4407811848390537,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045973</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2299397146993645,52.4370458957246086,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046003</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.229839502757029,52.4357777071033624,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045933</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2273709640353676,52.4366250640224578,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045976</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2324686126096847,52.4376322009585607,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045976</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2314527759628557,52.4369994937337793,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045996</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2277523295884389,52.4342075702749781,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.232878492621575,52.4316240911726652,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2269405635511159,52.4302606117088175,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045932</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2206519848143032,52.4349588355252223,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2212745699500633,52.4289485425013169,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045967</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2177140228390968,52.4312925982191516,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045974</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2129685020789971,52.4370373922808781,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045919</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2132663118353833,52.4403742145846934,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045975</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2094424355214173,52.4363901041921636,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045920</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2025375801452523,52.436959327041059,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045991</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2152943359579727,52.4291446208536627,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045938</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2011862526913948,52.4316254269092497,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045961</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.20028879668053,52.4302734760941078,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045943</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2691488721578885,52.4203520895335728,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045965</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.265916251622734,52.4282167908344618,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045942</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2610618853312214,52.4223410376442871,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2166562487396426,52.4278778497663254,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2120604855841535,52.4268138818269733,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045959</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2030113842891712,52.4269827464699532,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045960</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2025561036041026,52.4278450795189315,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045992</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.201579431371993,52.4241504312523219,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2006142920342793,52.4225285504700551,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2075336902455867,52.4252786682382066,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046011</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.203746061863848,52.4237665164332398,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045947</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1946987623176444,52.4309607140178642,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045953</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1727480850740939,52.4450220124241682,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045954</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1673488314170353,52.4496070289641025,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046007</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.164555198850211,52.4335904367517784,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045930</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1660635780138495,52.4289292375160798,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045905</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1653594532134761,52.428669036904779,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045989</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1303179494721132,52.4352770814975031,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045917</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1818567786598546,52.4269989533685887,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045998</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1830790594202352,52.4282587359950867,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045918</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1827309676405626,52.4279942870866549,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045916</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.181099198149111,52.4264013194530847,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045972</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1911583307208602,52.4230061287884155,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045914</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1809537720372418,52.425061719352847,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045915</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1814895201556848,52.4257010183813534,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045913</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1793794725567732,52.4232760874371095,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045912</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1790500783972142,52.4225881264091313,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045926</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1722786306923005,52.4179796611831108,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045944</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1596980449189864,52.424437788619251,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045945</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1562351560893749,52.4235639195449323,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045971</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1543336425217934,52.4252740939615407,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045931</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1627235832762306,52.4213692894613246,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046014</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1609542305566087,52.4170788344995486,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09020850</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1616380215836699,52.4172225611136611,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045927</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1663615407942931,52.4165182878599936,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045908</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1639788130744737,52.417965187273154,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045909</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1541025315302473,52.4154849259770685,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045910</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1538763263831058,52.4148612437039176,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045911</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.153678163574714,52.4144136057434125,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045902</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1457201805550472,52.4134000254118604,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046013</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1119145753545734,52.4252623960685824,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046368</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1029407054831495,52.4186560118966938,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046012</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.118327375953351,52.4236108907980736,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046368</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1042259009208433,52.4116803691191322,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046368</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.0958983596949246,52.4116916486160989,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045934</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1293453640327105,52.3891415747803322,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046306</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3126813928360761,52.4576461380770667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046298</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3385667621861987,52.4615377675721462,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046307</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3071639035063143,52.465753086820996,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046286</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3102376007899519,52.4624501865135429,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046288</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3054445790420797,52.4613271324508048,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046300</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3284246589219073,52.4511933815133986,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046282</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3517648851274284,52.4466434131044963,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046309</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3325404698717716,52.4483026179785767,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046281</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3383533131885752,52.4421446395662727,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046301</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3509749800279156,52.4314107908678722,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046280</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.344776523329795,52.4399074864867245,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046304</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3338575753351076,52.4394386080903274,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046283</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3290029086872384,52.4383880665387991,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046294</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3296508919305534,52.4322357054171775,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046390</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3159705617960977,52.4571237570891498,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046284</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3110508902426279,52.456401521784727,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046289</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3258795663468437,52.4558395908722943,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046299</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3116916347423082,52.455840996973599,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046276</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3088364998672528,52.4574915507441233,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046297</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3047817756436437,52.4544313785191036,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046277</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3074486691055736,52.4428164669222241,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046302</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3116117734251223,52.4459940996891163,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046291</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3148585423621473,52.445730956965896,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046311</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3030413204690454,52.4491381620425372,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046293</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.303131002846035,52.4470635034279766,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046311</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3038595394013246,52.4494347814010311,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046290</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3184709897804705,52.4388028747911505,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046279</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3256763083748222,52.4356428709535365,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046303</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3241969633417661,52.4325973511970744,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046295</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.32636783278544,52.429650729583031,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046287</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3247160067747217,52.4241312422784844,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046305</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3199982836651731,52.4276978285757806,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046285</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3063537183256653,52.4373765313967226,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046308</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3283117858901985,52.4141237848053763,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046311</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3001555630229991,52.4480549276104639,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046311</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3016557157767466,52.448624617763862,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046292</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2986934331376023,52.436475634263374,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046296</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2921999162578732,52.438244848573305,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09031272</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2827149211472673,52.4363099343349077,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046310</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2937320939615091,52.4220357476036725,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010219</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3154353897065878,52.4565399565164796,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046110</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3189748876508496,52.4354419470133948,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046110</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3143351819378744,52.4324251409356421,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046284</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3108079307019072,52.4560627333711409,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097752</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2257743886308727,52.4431609955777205,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045639</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2713604038889805,52.4416105877834369,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045639</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2719398245813167,52.4459701538922616,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09085208</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1719135339738998,52.4188090278382077,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046271</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4147634163155729,52.4628100807097795,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046267</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4036213963982327,52.3794115116117496,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046273</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3869210404331032,52.484141519767455,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046259</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3779887978871592,52.4781925693597842,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046265</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3803841392703458,52.4668273462846813,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046265</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3800436456531084,52.4664192230157553,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046265</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3806719008616355,52.4664545645693323,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046272</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3832958606872179,52.4636917838862828,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046265</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3803034844036031,52.4661168435369163,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046274</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3833853798737312,52.4626101881353577,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046260</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3889292314893869,52.4610609765125204,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046270</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.392031601195292,52.4423817256283442,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046269</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3803767869908743,52.4588668890806886,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046264</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.368422080946031,52.4115686473986813,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046261</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3686023841135473,52.411812417218961,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046261</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3674562847616301,52.4122770283431265,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046263</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3722717022362936,52.410419875795796,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045874</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3672225038425339,52.4897544650459764,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045885</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3591823431074506,52.4924314412579776,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045876</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3559303699282097,52.4870575980759355,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045871</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3483669335956865,52.4885320625399814,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045870</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3694843225485069,52.4594505800655995,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046015</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3617995978111406,52.456970126358037,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046015</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3637358729163545,52.4573749126806703,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010157</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3418594521006853,52.4957332935309395,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045894</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3430805547873668,52.4954517870661519,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045877</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3478799387838496,52.4839369669183782,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045873</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.338869905847254,52.482089604938416,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045873</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3434340440534687,52.4833983752861286,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045872</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3420865239253477,52.4737707330556589,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045882</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3340975394813768,52.4753070507718249,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045883</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.334443348183683,52.4753044043065202,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045882</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3341385290983112,52.4750343677703128,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046603</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3340367795067731,52.4757356662633185,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045886</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3330944776951181,52.4703079274827004,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045880</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3335336186481328,52.4723840224333173,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09012525</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3326550661061312,52.4715056601149144,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045887</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.346359014159205,52.4626263947217026,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046604</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3228882537232245,52.4760498703126785,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046017</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3345775159615361,52.469114159009294,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045888</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3335192807934888,52.4715974903821021,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046016</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3299182205471123,52.4710694374988051,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045890</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3368827880370802,52.4749777500211536,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045890</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3373594810091714,52.4749958235514669,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045892</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3259240089339706,52.4734077569784247,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046244</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3653285414333336,52.483756147391027,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046261</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3696920917670017,52.411644805894575,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046269</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3804761332616096,52.4590874622952086,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046270</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3982228387180875,52.4435916479779891,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046266</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3748302098671417,52.4783058530030289,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046268</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.386078350131152,52.4383827588765072,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046268</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3860813425059249,52.4384298566392388,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046268</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3860917459982183,52.4384702328060399,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046268</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3861039709469001,52.4385114350528951,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046268</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3870009823766782,52.4382053431371347,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046268</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3861166853113343,52.437464045127534,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046268</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3863334496308077,52.4376323529562214,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046274</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3828153111071693,52.463962797993176,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046262</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.366419479376022,52.4143923078029132,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046262</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3659230989488691,52.4142218203888604,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046018</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5444394963895736,52.4607910480423101,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046029</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.6270124569131337,52.4449298565293276,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046035</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.7148995139471346,52.435126320083036,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046020</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.6186366853063152,52.4495025676238029,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046022</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.6225192321942572,52.4585692827883179,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046025</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.7022387379489974,52.4641027651628775,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046026</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.67610784038642,52.4066466625172112,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046038</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5864678682180866,52.4710477560236299,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046031</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.6024948194270596,52.4504111271800397,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046033</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5653606028283331,52.441937042590709,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046036</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.576830445677242,52.4317126425552758,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046024</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5833257021860714,52.4532350331020396,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046028</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5983997406719546,52.4510506729683783,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046021</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5811134617125955,52.4571720474510244,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046030</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5911002734151492,52.4399941802938372,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046030</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5932549491978225,52.440037795281242,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046018</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5487891612700828,52.4636367858763322,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046027</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5120906143270538,52.467013512973999,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046023</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5241502705518766,52.4634066063075011,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046019</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5328230110678849,52.4667139759496095,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046034</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5730207961525355,52.4430975330138551,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046369</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.545773248859966,52.4425358877933263,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046092</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5711837115829361,52.4108966484934982,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046093</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5647221427438698,52.410442178262123,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046095</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5263987759757853,52.4112853659438116,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046094</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4808481408207435,52.4757200626089357,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046091</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4690333393575923,52.4881579068977118,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046091</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4755834285760603,52.4894294918021771,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046275</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4918347820883859,52.4598409176643372,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046275</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4924510180356343,52.4595507191757378,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046275</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4925645699965067,52.4596102834714273,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046275</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4923771426691346,52.4597754605884106,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046275</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4923027882906119,52.4597084961222748,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046096</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4749837218439641,52.4547449344665395,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046091</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4592918908958747,52.4928372851698057,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09010223</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.544986107973056,52.4350070865203506,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097200</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5737305800006354,52.4095061692109425,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046019</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5443414361240961,52.4616482052451687,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046205</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1385510879317966,52.4524065998417228,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046015</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3602769015973077,52.4556491819458728,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046104</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4159574465621727,52.5430403438148446,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09065343</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4032935587994153,52.5730722982652026,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046057</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4973471023670797,52.6375628814842074,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097746</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2098539483357804,52.4325919411450201,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046184</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4257383639629442,52.4840671439023367,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045907</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1659821071961112,52.4327129515715242,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045906</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.1662546309082362,52.4317033664554373,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09075002</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3348028341971236,52.5021730390212156,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046059</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4083733860593366,52.5774953905942724,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09085055</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4038420673484762,52.577098502830836,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09030001</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3344457583398555,52.4980608130712412,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046607</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3966096329202689,52.5021273323200575,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046606</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3775656446517601,52.504592364229218,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046609</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3933225448460984,52.5746960827980274,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097798</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3900891740344452,52.5013529225075217,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046611</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3988767987537418,52.5058052198593614,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046611</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.398235561687013,52.5059755960280015,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046611</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3994946070819907,52.5055632587237611,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046611</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3992047103929117,52.5052445463391209,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046611</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3985088201011724,52.5053343526000376,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046611</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3979686507976137,52.5055925505111887,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046611</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3992823268575521,52.5063193917918554,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046611</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3986820148479886,52.5064363381749004,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046179</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4280852752379829,52.4724583527557087,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046611</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3996875294365587,52.5061207506915295,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046255</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3099380599676795,52.5990512722902892,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046610</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2801917694956941,52.5385109616127366,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046250</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2782615569747442,52.6304816937179609,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046612</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4133869560659029,52.495993304726575,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046613</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3669034324342757,52.452624638222936,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09045897</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5255958182327998,52.5029097987280053,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097820</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4093595694216674,52.4816631669222247,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097829</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.362588585624092,52.518473921050095,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097833</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.6966380364579194,52.4372540475172073,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097834</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3525779785699594,52.5048294827311821,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097837</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2945216127755828,52.4874948720360663,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097845</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3939392134365569,52.5706818405585778,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097849</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3055269536744003,52.4731970932208185,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097849</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3071645072244955,52.471042926419365,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3379908361663642,52.514534061867721,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.338012742761828,52.5142179178356869,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3379945354908696,52.5142818606724404,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097871</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3702045564022001,52.5106299915969004,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097887</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2782404190878989,52.5904839195609526,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097888</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.347905046596475,52.5091849230092365,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09096041</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4680687732131457,52.4263140395500571,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09035373</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4103908362280553,52.5127888589993788,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09020079</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2565802815965679,52.5193990907023434,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09020080</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2108746855215262,52.4927028167391256,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09096054</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2596196192679248,52.4340613888938307,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09097892</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.3954478077515429,52.5043681614027875,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046614</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.5294689921352607,52.4991831269495677,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09050454</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.4102588066401864,52.5425224329647236,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Punkt 09046142</name>
+<styleUrl>root://styleMaps#default+nicon=0x307+hicon=0x317</styleUrl>
+<Point>
+<coordinates>13.2729557432023011,52.475914003107718,0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
+ 
