@@ -7,3 +7,7 @@ The general idea is: There is quite ab bit of OpenData in Berlin. And there is a
 Right now, there is nothing to see here.
 
 It's just a list of possible data sources in Github Issues and folders.
+
+## Tools
+
+- https://github.com/plepe/ogd-wikimedia-osm-checker/
