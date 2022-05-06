@@ -11,3 +11,7 @@ It's just a list of possible data sources in Github Issues and folders.
 ## Tools
 
 - https://github.com/plepe/ogd-wikimedia-osm-checker/
+
+## Erfolgreiche Datenabgleiche
+
+- https://wiki.openstreetmap.org/wiki/Berlin/Verkehrswende/Parkraum/Mapping_Kampagne_Xhain
